@@ -1,7 +1,7 @@
 # StandardPageSize
 
 标准分页数
-
+```
 Standard_Page_Size_5    5
 
 Standard_Page_Size_10   10
@@ -30,6 +30,7 @@ Standard_Page_Size_800  800
 Standard_Page_Size_1000 1000
 
 Standard_Page_Size_Default 20
+```
 
 ## Requirements
 
